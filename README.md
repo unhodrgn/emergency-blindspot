@@ -1,6 +1,6 @@
 # 응급상황 골든타임 사각지대 분석 — 동작구·관악구
 
-Personal replication of the "10조 인사이트" data science proposal.
+Personal replication of the data science.
 Analyze emergency medical accessibility blind spots in Dongjak-gu and Gwanak-gu, Seoul.
 
 ## 📁 Cấu trúc
